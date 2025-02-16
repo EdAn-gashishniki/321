@@ -10,6 +10,8 @@ nano /etc/nftables.conf
 
 nano /etc/sysctl.conf
 
+раскомменчиваем строку
+
 ![{C83255EB-4AA7-4F52-AB77-5BA13D0774BE}](https://github.com/user-attachments/assets/a01bdb6d-f2b2-4298-8999-d8d2c717764e)
 
 sysctl -p
